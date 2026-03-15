@@ -19,6 +19,8 @@ A fast, framework-aware XXE vulnerability scanner written in Go. Like nuclei but
 
 ```bash
 go install -v github.com/xxeshot/xxeshot/cmd/xxeshot@latest
+
+go install -v https://github.com/hunterrsec/XXE.git
 ```
 
 Or build from source:
